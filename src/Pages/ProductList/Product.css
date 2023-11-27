@@ -2,7 +2,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 50px;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
 }
+
+
 .products-container {
     height: 100vh;
     display: flex;
@@ -29,7 +34,7 @@ h2 {
 form {
     max-width: 455px;
     width: 100%;
-    height: 600px;
+    height: 620px;
     background: #EBF3F7;
     padding: 30px;
     font-weight: 500;
